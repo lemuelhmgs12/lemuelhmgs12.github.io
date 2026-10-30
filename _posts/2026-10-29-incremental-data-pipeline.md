@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building an Incremental Data Pipeline with S3, DuckDB and Airflow
-image: "/posts/openfoodfacts.png"
+image: "/posts/pogo_card.png"
 tags: [Python, Airflow, DuckDB, AWS, Terraform, Data Engineering]
 ---
 
