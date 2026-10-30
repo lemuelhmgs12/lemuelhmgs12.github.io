@@ -15,7 +15,7 @@ Product-catalog teams need to see what changed (new items, updated ingredients, 
 
 ## Architecture
 
-![Pipeline architecture](/posts/pipeline_architecture.png)
+![Pipeline architecture]({{ '/img/posts/pipeline_architecture.png' | relative_url }})
 
 An Airflow DAG runs daily with three tasks:
 
