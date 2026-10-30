@@ -8,23 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Lemuel Gebreselassie
+description: "Software engineer moving into data engineering, with a Master of Data Science from the University of Pittsburgh. This portfolio features an incremental S3, DuckDB and Airflow pipeline with Terraform-managed IAM, and an analysis of POGOH bike-share ridership. Find my work on GitHub and LinkedIn, or download my resume using the links below."
+baseurl: ""  # leave empty if the repo is named <username>.github.io; otherwise "/<repo-name>"
+url: "https://lemuelhmgs12.github.io"
 
 #-------------------------------
 # About Section
-subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: /docs/resume.docx
+subtitle: Data Engineering <span style="color:#f58506"> Portfolio </span>
+location: "Pittsburgh, PA"
+resume_url: /docs/xxx.pdf
 avatar_image: /img/profile_picture.png
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
-
+linkedln: "https://www.linkedin.com/in/lemuel-gebreselassie-28305080/"
+github: "https://github.com/lemuelhmgs12"
 paginate: 6
 paginate_path: "/page/:num"
 
