@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POGOH Ridership Analysis - E-bike Adoption and the 2025 Pricing Change
-image: "/posts/pogoh_ridership.png"
+image: "/posts/pogoh_ridership_cover.png"
 tags: [Python, Jupyter, Data Analysis, Pittsburgh]
 ---
 
@@ -23,21 +23,17 @@ POGOH Trip Data from the Western Pennsylvania Regional Data Center (WPRDC), cove
 
 The work is a series of numbered Jupyter notebooks, run in order. Notebook 02 builds the processed files from the raw data, and notebooks 03 to 07 run the analysis on them. Figures and statistical outputs are saved to `results/`. Python dependencies are managed with uv, so the environment can be recreated from the repo.
 
-[ADD: one or two sentences on your cleaning steps, for example how you handled missing values, duplicate trips or station changes.]
+## Cleaning Step
 
 ## What I found
 
-[ADD: your two or three headline findings, each with one number. For example, how the e-bike share of trips changed, how ridership growth looked year over year, and the difference in ridership before and after the pricing change.]
 
-[ADD: one chart, saved to `/posts/pogoh_ridership.png`, with a one-line caption.]
 
 ## Method notes
 
-[ADD: how you measured the pricing effect (a before/after comparison, a seasonal adjustment, a statistical test) and the main caveat, such as seasonality or other changes in 2025 that could also explain the difference.]
 
 ## What I would do next
 
-[ADD: one or two follow-ups, such as station-level analysis or a forecast for the next season.]
 
 ## Reproduce it
 
