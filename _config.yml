@@ -9,8 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Lemuel Gebreselassie
-description: "Software engineer moving into data engineering, with a Master of Data Science from the University of Pittsburgh. This portfolio features an incremental S3, DuckDB and Airflow pipeline with Terraform-managed IAM, and an analysis of POGOH bike-share ridership. Find my work on GitHub and LinkedIn, or download my resume using the links below."
-baseurl: ""  # leave empty if the repo is named <username>.github.io; otherwise "/<repo-name>"
+description: "I'm a software engineer with a background in application development and quality assurance, and a Master of Data Science from the University of Pittsburgh. I'm building a career in data engineering, where I bring an engineer's discipline around testing, reliability and clear documentation to data work. Browse my projects below, or use the links to reach my GitHub, LinkedIn and resume." 
 url: "https://lemuelhmgs12.github.io"
 
 #-------------------------------
