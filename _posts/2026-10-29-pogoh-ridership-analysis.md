@@ -34,7 +34,7 @@ Cleaning took the data from 984,180 to 935,004 trips, about 5%:
 
 ## What I found
 
-![Actual monthly rides vs the pre-2025 trend, with the gap after the Flex Pass retirement](/posts/pogoh_growth_gap.png)
+![Actual monthly rides vs the pre-2025 trend, with the gap after the Flex Pass retirement](/img/posts/pogoh_growth_gap.png)
 - **E-assist bikes are 81% of rides** (95% CI 81.30% to 81.45%). Members ride them 83.7% of the time, casual riders 62.8%. That is a 20.9-point gap, and it shows association, not cause.
 - **Growth slowed sharply.** Comparing January to July each year, rides grew 200.9% from 2023 to 2024 but only 17.1% from 2024 to 2025. Flex Pass rides fell from 401,800 in 2024 to 2,623 in 2025 (a full year versus seven months).
 - **A simple before/after average misleads.** It shows rides up 48.6%, which is just long-term growth. Against a trend fitted on pre-2025 data, January 2025 came in 59.2% below prediction and recovered to 31% below by July.
